@@ -8,6 +8,20 @@ import * as firebase from "firebase";
       projectId: "app-agua-utfpr",
       storageBucket: "app-agua-utfpr.appspot.com",
       messagingSenderId: "142712018169"
+
+      /*apiKey: "AIzaSyDQFQ59lMT5wk4lFaJ0bUR0UnP0jVZ3IgQ",
+      authDomain: "testewebchat-1a3fa.firebaseapp.com",
+      databaseURL: "https://testewebchat-1a3fa.firebaseio.com",
+      projectId: "testewebchat-1a3fa",
+      storageBucket: "testewebchat-1a3fa.appspot.com",
+      messagingSenderId: "128075295986"*/
+
+      /*apiKey: "AIzaSyC8IfiS0RazzpNOZsWkHe8NcuiqyfqpWwk",
+      authDomain: "app-desperdicio.firebaseapp.com",
+      databaseURL: "https://app-desperdicio.firebaseio.com",
+      projectId: "app-desperdicio",
+      storageBucket: "app-desperdicio.appspot.com",
+      messagingSenderId: "402861801348"*/
     };
     firebase.initializeApp(firebaseConfig);
 
